@@ -2,7 +2,7 @@
 
 # Aerostack2
 
-Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way.
+Aerostack2 is a ROS 2 framework developed to create autonomous multi-aerial-robots systems in an easy and powerful way. **This is the version that has been used in the context of the PRISMA project.**
 
 ![Build for Ubuntu 22.04 and ROS humble](https://github.com/aerostack2/aerostack2/actions/workflows/build-humble.yaml/badge.svg) 
 
